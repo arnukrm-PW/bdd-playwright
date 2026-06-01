@@ -1,5 +1,5 @@
 const{locator,test,expect}=require('@playwright/test')
-
+// create class # change 1 
 class BasePage {
 
 constructor(page){
